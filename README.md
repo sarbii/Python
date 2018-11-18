@@ -24,3 +24,5 @@ contents
 14. K-Nearest neighbor 
 15. Neural Network 
 16. TensorFlow sample 
+
+각 주차에 배운 내용들을 토대로 예제들을 풀어보고 내가 푼 내용들을 업로드 할예정
